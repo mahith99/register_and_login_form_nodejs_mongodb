@@ -1,0 +1,3 @@
+# register_and_login_form_nodejs_mongodb
+registration and login form using nodejs and mongoDB 
+where ever u r putting index.js file open terminal and run "npm init" so that u get node_modules...
